@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-salivary-amylase-amy1-copy-number-starch-skill",
+  "version": "1.0.0",
+  "title": "Salivary AMY1 Gene Copy Number & Starch Glycemic Tolerance Skill",
+  "category": "Personal Agent (Bio / Nutrigenomics & Carbohydrate Metabolism)",
+  "description": "Calculates salivary amylase AMY1 diploid copy number variation (CNV, 2-15 copies), predicts oral starch pre-digestion rate, and tailors glycemic load carbohydrate allowances.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "evaluate_amy1_starch_tolerance"
+  ],
+  "dependencies": []
+}
